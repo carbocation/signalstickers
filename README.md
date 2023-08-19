@@ -1,2 +1,2 @@
 # signalstickers
-A tool to convert .gif files to .webp files for Signal stickers
+A tool to convert .gif files to square animated .png files for Signal stickers
